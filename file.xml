@@ -1,0 +1,20 @@
+<cdac>
+	<student>
+		<Profile>
+		<name>tanu</name>
+		<prn>1111</prn>
+	</Profile>
+	</student>
+	<student>
+		<Profile>
+		<name>karan</name>
+		<prn>1222</prn>
+	</Profile>
+	</student>
+	<student>
+		<Profile>
+		<name>virat</name>
+		<prn>1888</prn>
+	</Profile>
+	</student>
+</cdac>

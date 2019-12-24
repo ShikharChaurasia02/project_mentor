@@ -1,0 +1,29 @@
+<college fullname="xCol">
+    <student knumber="000555">
+                 <Profile>
+                    <Name>testtt</Name>
+                    <ContactNumber>061-123-1235</ContactNumber>
+                    <Address>
+                        <AddressLine1>testttaxxxx</AddressLine1>
+                        <AddressLine2>testttsss</AddressLine2>
+                        <City>testttaaaa</City>
+                        <County>testttwwww</County>
+                    </Address>
+                    <Email>testtt@test</Email>
+                    <Picture>testtt.jpg</Picture>
+                </Profile>
+             </student>
+             <student knumber="34333">
+                 <Profile>
+                    <Name>testtt</Name>
+                    <ContactNumber>061-123-1235</ContactNumber>
+                    <Address>
+                        <AddressLine1>testttaxxxx</AddressLine1>
+                        <AddressLine2>testttsss</AddressLine2>
+                        <City>testttaaaa</City>
+                        <County>testttwwww</County>
+                    </Address>
+                    <Email>testtt@test</Email>
+                    <Picture>testtt.jpg</Picture>
+                </Profile>
+             </student>
